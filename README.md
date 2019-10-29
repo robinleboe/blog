@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Julia
+  Robin Leboe Gatsby Blog
 </h1>
 
 [GatsbyJS](https://www.gatsbyjs.org/) is a free and open source static website builder build on React. It's one implementation of the [JAMstack](https://jamstack.org/) idea which creates high speed webpages.
@@ -17,7 +17,7 @@
 * Estimated reading time for each post
 * Styled components with emotion
 * Netlify deployment friendly
-* Nunito font included as npm module
+* Roboto Google font included as npm module (https://www.npmjs.com/package/typeface-roboto)
 * Syntax highlighting with prismjs
 * Textmarkerstyle headings inspired by Basecamp
 * Site meta tags with React Helmet
@@ -47,7 +47,7 @@ export default PageName
 
 To change the name on the landing page please modify the `title` in `gatsby-config.js`
 
-The Nunito typeface is included as a npm module in `gatsby-browser.js` and in `/components/layout.css`
+The Roboto typeface is included as a npm module in `gatsby-browser.js` and in `/components/layout.css`
 
 ___
 
@@ -59,19 +59,15 @@ This starter ships with the main Gatsby configuration files you might need to ge
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the julia starter.
+    Use the Gatsby CLI to create a new site, specifying the starter.
 
-    ```sh
-    # create a new Gatsby site using the julia starter
-    gatsby new julia-starter https://github.com/niklasmtj/gatsby-starter-julia
-    ```
 
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
 
     ```sh
-    cd julia-starter/
+    cd robin-leboe-gatsby-blog/
     gatsby develop
     ```
 
@@ -81,7 +77,7 @@ This starter ships with the main Gatsby configuration files you might need to ge
 
     _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
-    Open the `julia-starter` directory in your code editor of choice and edit `src/pages/index.js` or `src/pages/blog.js`. Save your changes and the browser will update in real time!
+    Open the `robin-leboe-gatsby-blog` directory in your code editor of choice and edit `src/pages/index.js` or `src/pages/blog.js`. Save your changes and the browser will update in real time!
 
 ## 🧐 What's inside?
 
@@ -153,9 +149,5 @@ Looking for more guidance? The perfect place to learn more about GatsbyJS is the
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
 ## 💫 Deploy
-
-You can also directly deploy this starter via Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/niklasmtj/gatsby-starter-julia)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
