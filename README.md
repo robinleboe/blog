@@ -1,11 +1,11 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://avatars3.githubusercontent.com/u/9357467?s=400" width="60" />
+    <img alt="Gatsby" src="https://avatars3.githubusercontent.com/u/9357467?s=800" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Personal Blog fo Robin Leboe
+  Personal Blog of Robin Leboe
 </h1>
 
 [GatsbyJS](https://www.gatsbyjs.org/) is a free and open source static website builder build on React. It's one implementation of the [JAMstack](https://jamstack.org/) idea which creates high speed webpages.
