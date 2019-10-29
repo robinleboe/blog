@@ -1,7 +1,7 @@
 ---
 title: "Example Title"
 date: "2019-03-17"
-draft: false
+draft: true
 path: "/blog/example-title"
 ---
 # H1
