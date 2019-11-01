@@ -23,7 +23,7 @@ Ok. Not the clearest explanation. Let's have another go.
 
 In simpler terms: GraphQL sends a query to a server as a string. The server interprets the string and returns JSON to the client. What makes GraphQL queries very different from REST API calls is the fact that a GraphQL query describes the 'shape' of returned data and the integrity of relationships are preserved in the returned JSON as you can see in the following image:
 
-![image-20191031150520828](src/images/image-20191031150520828.png)
+![image-20191031150520828](../images/image-20191031150520828.png)
 
 #### Typing and Introspection
 
