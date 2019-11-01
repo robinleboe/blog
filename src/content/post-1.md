@@ -1,10 +1,9 @@
 ---
-title: "Back to R&D"
+title: "Back to R & R̶D"
 date: "2019-10-31"
 draft: false
 path: "/blog/back-to-r-and-d"
 ---
-# Back to Rock & ~~Roll~~ Development
 
 After spending several years in corporate management I found that with each passing month there was less and less time available for the two activities I love the most: making music and writing code. Time for a change!
 
