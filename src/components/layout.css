@@ -1,5 +1,5 @@
 code {
-  background-color: hsla(0, 0%, 0%, 0.04);
+  background-color: #363b40;
 }
 
 body {
@@ -7,6 +7,7 @@ body {
   font-family: 'Roboto', 'Avenir', 'Helvetica', 'sans-serif';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #dedede;
 }
 article,
 aside,
