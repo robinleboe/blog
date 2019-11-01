@@ -1,5 +1,5 @@
 ---
-title: "Back to R & R̶D(evelpoment)"
+title: "Back to Rock & R̶o̶l̶l̶ Develpoment"
 date: "2019-10-31"
 draft: false
 path: "/blog/back-to-r-and-d"
