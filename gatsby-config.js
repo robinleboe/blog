@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Robin Leboe`,
-    subtitle: `web application developer`,
-    description: `A minimal, type-centric blog built with Gatsbyjs.`,
+    subtitle: `full stack developer`,
+    description: `A minimal, type-centric blog built with Gatsby.`,
     author: `@robinleboe`,
   },
   plugins: [
@@ -14,13 +14,6 @@ module.exports = {
         path: `${__dirname}/src/content`,
       },
     },
-    // {
-    //   resolve: `gatsby-source-filesystem`,
-    //   options: {
-    //     name: `images`,
-    //     path: `${__dirname}/src/content/images`,
-    //   },
-    // },
     `gatsby-remark-copy-linked-files`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
