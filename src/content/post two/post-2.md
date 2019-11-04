@@ -1,4 +1,9 @@
-# MERN Stack + GraphQL
+---
+title: "MERN Stack + GraphQL"
+date: "2019-11-03"
+draft: false
+path: "/blog/mern-graphql"
+---
 
 It's Saturday so why not build a GraphQL server using Express? Coffee's on so here we go!
 
