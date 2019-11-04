@@ -203,7 +203,7 @@ const MakerType = new GraphQLObjectType({
         guitar: {
             type: new GraphQLList(GuitarType),
             resolve(parent, args) {
-                return guitars.filter((item) => { return item.makerID == 1 });
+                return guitars.filter((item) => { return item.makerID == parent.id });
             }
         }
     })
