@@ -52,7 +52,12 @@ Before getting down to business we'll need a file for our application and files 
 
 `touch app.js .gitignore README.md`
 
-With the `.gitignore` file created we'll add the `node_modules` directory to it. This will make sure our Node modules don't end up in our repo. Let's launch VS Code again, add `node_modules/` and save the file.
+With the `.gitignore` file created we'll add the `node_modules` directory to it. This will make sure our Node modules don't end up in our repo. Let's launch VS Code again, add `node_modules/` to .gitignore and save the file.
+
+`code README.md`
+
+```node_modules/
+```
 
 The last file we'll modify before we do out first commit is a markdown file called `README.md` .
 
