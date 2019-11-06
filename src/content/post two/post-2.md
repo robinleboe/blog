@@ -67,7 +67,7 @@ For now let's just add something simple as a placeholder and save the file. I ad
 
 ```html
 <h1 align="center">
-  Apollo and GraphQL Server
+  MERN and GraphQL Server
 </h1>
 ```
 
