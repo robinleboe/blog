@@ -1,4 +1,9 @@
-# Basic tools setup with macOS Mojave
+---
+title: "Basic tools setup with macOS Mojave"
+date: "2019-11-05"
+draft: false
+path: "/blog/basic-dev-tools-setup"
+---
 
 I recently started tooling up a new dev environment on a MacBook Pro running Mojave. There are lots of things to configure and a few gotchas so I thought I'd document the process in case it saves someone time and and helps keep the frustration level to a minimum. 
 
