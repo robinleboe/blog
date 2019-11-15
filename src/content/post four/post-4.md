@@ -33,6 +33,7 @@ This will reload your bash configuration and you can now launch VS Code from the
 ~/my-dev-folder code myComponent.js
 ```
 
+
 ### Why?
 
 VS Code has macOS, Linux and Windows covered for one. It's also a performant, tightly integrated development environment that features a snappy source code editor with multi-language support. VS Code also sports syntax highlighting, bracket-matching, auto-indentation, box-selection, snippets, and a whole lot more. Other features include  IntelliSense code completion, effective code refactoring options and an integrated Terminal view that supports multiple sessions.
