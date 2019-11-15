@@ -47,43 +47,43 @@ One of the many benefits of VS Code is the sheer number of handy extensions avai
 
 This is one of the most downloaded extensions for VS Code. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) integrates automatic formatting and linting with your editor. It is highly recommended.
 
-![](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post four/es-lint.png)
+![](./es-lint.png)
 
 #### Prettier
 
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) formats your code __consistently __ so you don’t have to sweat it. It does a great job and is very popular with over 7 million downloads.
 
-![](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post four/prettier.png)
+![](./prettier.png)
 
 #### Bracket Pair Colorizer
 
 Identifying matching brackets in deeply nested code is a real pain. The [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) extension correlates  brackets by identfying them with matching colors. Do yourself a favour and grab this one.
 
-![](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post four/bracket-pair-colourizer.png)
+![](./bracket-pair-colourizer.png)
 
 #### Debugger for Chrome
 
 While console.log is handy for debugging the official [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) extension takes things to a whole new level, allowing you to use Chrome's debugger directly in VS Code.
 
-![](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post four/chrome-debugger.png)
+![](./chrome-debugger.png)
 
 ####Live Server
 
 The [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension provides an easy to use development server with live reload for both static and dynamic pages. It's quick and easy to spin up a server when you need one directly from within VS Code.
 
-![](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post four/live-server.png)
+![](./live-server.png)
 
 ####Path Intellisense
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) helps you automatically complete filenames while editing. Looking up path names for files or directories can be a real pain. This extension provides file and directory name intellisense completion which can save a lot of time and reduce the number of errors created by incorrect paths in your code.
 
-![](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post four/path-intellisense.png)
+![](./path-intellisense.png)
 
 ### Themes Aplenty
 
 Another benefit of VS Code's popularity is the abundance of themes available. The default installation comes with a fair number of themes available from Code > Preferences > Color Theme. You can also install other themes from VS Code's built-in Marketplace. My favorite theme of late is [Monokai++](https://marketplace.visualstudio.com/items?itemName=dcasella.monokai-plusplus). It's a dark but highly readable theme that works really well for me.
 
-![](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post four/monokai.png)
+![](./monokai.png)
 
 ### Make it Your Own 
 
