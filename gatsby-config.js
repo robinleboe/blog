@@ -6,16 +6,11 @@ module.exports = {
     author: `@robinleboe`,
   },
   plugins: [
-    module.exports = {
-      plugins: [
-        {
-          resolve: `gatsby-plugin-google-analytics`,
-          options: {
-            // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-            trackingId: "UA-150088580-2",
-          },
-        },
-      ],
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-150088580-2",
+      },
     },
     `gatsby-plugin-react-helmet`,
     {
@@ -32,28 +27,29 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [`gatsby-remark-reading-time`, {
-          resolve: `gatsby-remark-prismjs`,
-          options: {
-            aliases:{sh: "bash", js:"javascript",},
-            showLineNumbers: true,
-          }
-        },
-        {
-          resolve: `gatsby-remark-images`,
-          options: {
-            maxWidth: 1200,
+        plugins: [
+          `gatsby-remark-reading-time`,
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              aliases: { sh: "bash", js: "javascript" },
+              showLineNumbers: true,
+            },
           },
-        },],
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1200,
+            },
+          },
+        ],
       },
     },
     {
       resolve: `gatsby-plugin-netlify`,
       options: {
         headers: {
-          "/*": [
-            "Strict-Transport-Security: max-age=63072000"
-          ]
+          "/*": ["Strict-Transport-Security: max-age=63072000"],
         }, // option to add more headers. `Link` headers are transformed by the below criteria
         allPageHeaders: [], // option to add headers for all pages. `Link` headers are transformed by the below criteria
         mergeSecurityHeaders: true, // boolean to turn off the default security headers
