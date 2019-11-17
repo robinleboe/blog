@@ -6,6 +6,17 @@ module.exports = {
     author: `@robinleboe`,
   },
   plugins: [
+    module.exports = {
+      plugins: [
+        {
+          resolve: `gatsby-plugin-google-analytics`,
+          options: {
+            // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+            trackingId: "UA-150088580-2",
+          },
+        },
+      ],
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
