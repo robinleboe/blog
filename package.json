@@ -1,7 +1,7 @@
 {
   "name": "robin-leboe-gatsby-blog",
   "private": true,
-  "description": "A minimal, type-centric blog built with Gatsby",
+  "description": "A Blog about music & code: ideation, creation, implementation",
   "version": "0.1.0",
   "author": "Robin Leboe <robin.leboe@gmail.com>",
   "dependencies": {

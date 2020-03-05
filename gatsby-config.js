@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Robin Leboe`,
     subtitle: `music and code`,
-    description: `Music & code: deation, creation, implementation`,
+    description: `Music & code: ideation, creation, implementation`,
     author: `@robinleboe`,
   },
   plugins: [
