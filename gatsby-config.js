@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Robin Leboe`,
-    subtitle: `full stack developer`,
-    description: `A minimal, type-centric blog built with Gatsby.`,
+    subtitle: `music and code`,
+    description: `Music & code: deation, creation, implementation`,
     author: `@robinleboe`,
   },
   plugins: [
