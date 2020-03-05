@@ -1,8 +1,8 @@
 ---
 title: "Building a Blog with React-Static and Strapi CMS - Part Two"
-date: "2020-03-03"
+date: "2020-03-04"
 draft: false
-path: "/blog/building-blog-with-react-static-strapi-cms-part-one"
+path: "/blog/building-blog-with-react-static-strapi-cms-part-two"
 ---
 
 In the [last installment](https://robinleboe.me/blog/building-blog-with-react-static-strapi-cms-part-one) of this series we installed React Static and Strapi CMS into a project directory and added NPM scripts to make working with the back-end and the front-end development servers more manageable. 
