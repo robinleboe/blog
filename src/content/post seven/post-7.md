@@ -19,7 +19,7 @@ To begin creating our first content type start the Strapi development server by 
 
 With no configuration steps completed the Strapi admin displays the "Welcome on board!" Greeting and prompts you to create your first content type. Click on the CREATE YOUR FIRST CONTENT TYPE button to navigate to the Content Type Builder. In the grey Content Types menu on the left click the *Create new collection type* menu item.
 
-![image-20200303232829448](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post seven/image-20200303232829448.png)
+![collection-type](./image-20200303232829448.png)
 
 For *Display name* enter 'article' and click *Continue*. In the *Select field* pop up that appears let's add the following field types:
 
@@ -83,11 +83,11 @@ Let's add a simple Category content-type that we can assign to our articles to m
 - Click *Save*, the server will restart...
 - Click the article type and add a new Relation field specifying that an Article has a 'has many' relationship with the Category content-type and *Save*. The server will restart...
 
-![image-20200305110255238](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post seven/image-20200305110255238.png)
+![relationships](./image-20200305110255238.png)
 
 - Select Roles & Permissions and check 'find' and 'findone' checkboxes for the *public* role of the category type we created 
 
-![image-20200305110623394](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post seven/image-20200305110623394.png)
+![roles](./image-20200305110623394.png)
 
 With these steps completed you can now create and assign categories from the dropdown on the right-hand side of the article editor.
 

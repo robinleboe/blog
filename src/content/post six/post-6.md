@@ -177,7 +177,7 @@ http://localhost:1337
 
 The first time you visit the admin route in your browser you will be prompted to enter a username and password for the admin user. Once you are logged in successfully you will be greeted by the welcome screen:
 
-![image-20200303162319643](/Users/robinleboe/VS Code/robin-leboe-gatsby-blog/src/content/post six/image-20200303162319643.png)
+![welcome-screen](./image-20200303162319643.png)
 
 For the time being let's quit Strapi using Ctrl+C and do a little housekeeping in our project directory.
 
